@@ -29,4 +29,4 @@ cd ..
 ```
 
 * comando para rodar a api <br>
-npm json-server dados.json
+npx json-server dados.json

@@ -1,15 +1,15 @@
 ### Comandos terminal
 
-* comando para listar pastas ou diretorio
+* comando para listar pastas ou diretorio <br>
 ls
 
-* limpar tela
+* limpar tela <br>
 clear
 
-* entrar em um diretorio / pasta
+* entrar em um diretorio / pasta <br>
 cd api
 
-* voltar um diretorio
+* voltar um diretorio <br>
 cd ..
 
 ### criando uma api com json

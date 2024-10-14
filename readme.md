@@ -28,5 +28,5 @@ cd ..
 }
 ```
 
-* comando para rodar a api
+* comando para rodar a api <br>
 npm json-server dados.json
